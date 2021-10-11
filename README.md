@@ -1,4 +1,4 @@
-# CarSales
+# CarSales App
 Django Car Sales App to Demonstarte the Django Signal
 
 <h1>Demonstation of the Django Signals</h1>
