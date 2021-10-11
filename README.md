@@ -1,3 +1,5 @@
+# CarSales
+Django Car Sales App to Demonstarte the Django Signal
 
 <h1>Demonstation of the Django Signals</h1>
 <ul>
@@ -14,3 +16,4 @@ orders:order,m2m_changed,order->sale,post_save
 sales:sale->order,pre_delete
 </li>
 </ul>
+
