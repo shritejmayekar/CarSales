@@ -17,3 +17,19 @@ sales:sale->order,pre_delete
 </li>
 </ul>
 
+## Steps To Run the Application
+
+<ol>
+  <li> git clone project </li>
+  <li> go inside project folder </li>
+  <li> create an virtual env using  python3 -m venv venv 
+ </li>
+  <li> Activate the virtual environment source venv/bin/active </li>
+  <li> Install dependancies pip install -r requirements.txt </li>
+  <li> Migrate the db python manage.py migrate </li>
+  <li> Create an super admin user python manage.py createsuperuser </li>
+  <li> Run the application python manage.py runserver </li>
+  </ol>
+   
+
+
